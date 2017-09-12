@@ -21,6 +21,7 @@ header .tou{
 	display: flex;
 	align-items: center;
 	margin-left: 0.25rem; 
+	font-size:0.14rem;
 	color:#fff;
 }
 header .tou img{
